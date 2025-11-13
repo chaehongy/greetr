@@ -1,0 +1,9 @@
+Package: greetr
+Type: Package
+Title: Greets X!
+Version: 1.12.08
+Date: 2025-11-12
+Author: Chaehong Yun
+Maintainer: chaehong@berkeley.edu
+Description: Prints a greeting to x, where x is a string of choice, in the format, "Hello x!". Very cool stuff.
+License: MIT
